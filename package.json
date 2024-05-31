@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://bradtraversy.github.io/modern_portfolio",
   "scripts": {
-    "sass": ""sass --watch scss:dist/css",
+    "sass": "sass --watch scss:dist/css",
     "deploy": "gh-pages -d dist"
   },
   "author": "Brad Traversy",
