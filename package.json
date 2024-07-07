@@ -8,8 +8,6 @@
     "sass": "sass --watch scss:dist/css",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "sass": "^1.32.0"
